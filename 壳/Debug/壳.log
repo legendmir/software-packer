@@ -1,0 +1,7 @@
+﻿  壳Dlg.cpp
+c:\users\hs\desktop\新建文件夹\壳\壳\壳dlg.cpp(166): warning C4091: “typedef ”: 没有声明变量时忽略“TypeOffset”的左侧
+c:\users\hs\desktop\新建文件夹\壳\壳\壳dlg.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hs\desktop\新建文件夹\壳\壳\壳dlg.cpp(309): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hs\desktop\新建文件夹\壳\壳\壳dlg.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+  壳.vcxproj -> C:\Users\hs\Desktop\新建文件夹\壳\Debug\壳.exe
+  壳.vcxproj -> C:\Users\hs\Desktop\新建文件夹\壳\Debug\壳.pdb (Full PDB)

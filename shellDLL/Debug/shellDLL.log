@@ -1,0 +1,5 @@
+﻿  源.cpp
+    正在创建库 C:\Users\hs\Desktop\新建文件夹\壳\Debug\shellDLL.lib 和对象 C:\Users\hs\Desktop\新建文件夹\壳\Debug\shellDLL.exp
+源.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  shellDLL.vcxproj -> C:\Users\hs\Desktop\新建文件夹\壳\Debug\shellDLL.dll
+  shellDLL.vcxproj -> C:\Users\hs\Desktop\新建文件夹\壳\Debug\shellDLL.pdb (Full PDB)
